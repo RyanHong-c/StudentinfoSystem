@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/studentinfosystem
+    username: root
+    password: 1813745788cyhCYH
+
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
